@@ -24,9 +24,9 @@ void Unique(int b[], int n)
         {
             if (b[j]>b[j+1])
             {
-                t=b[i];
-                b[i]=b[j];
-                b[j]=t;
+                t=b[j];
+                b[j]=b[j+1];
+                b[j+1]=t;
             }
         }
     }
