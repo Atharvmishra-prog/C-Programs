@@ -13,4 +13,4 @@ This repository contains C programming lab exercises and practice programs.
 - C
 
 ## Purpose
-To practice and strengthen core programming concepts and problem-solving skills.
+To practice and strengthen core programming concepts and problem-solving skil.
